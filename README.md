@@ -1,2 +1,4 @@
 # hyperblog
-un blog increible para el curso de github
+Un blog increible para el curso de github.
+
+master 1
